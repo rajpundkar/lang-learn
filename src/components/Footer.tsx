@@ -65,7 +65,13 @@ const Footer = () => {
         </div>
         
         <div className="mt-8 pt-6 border-t border-blue-800/50 text-center text-gray-400 text-sm">
-          <p>© {new Date().getFullYear()} LangLearn. All rights reserved.</p>
+          <p>
+  © {new Date().getFullYear()} Project by 
+  <a href="https://github.com/rajpundkar" target="_blank" rel="noopener noreferrer">
+    Raj Pundkar
+  </a> 
+  &mdash; This project is currently under development.
+</p>
         </div>
       </div>
     </footer>
