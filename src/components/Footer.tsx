@@ -68,7 +68,7 @@ const Footer = () => {
           <p>
   © {new Date().getFullYear()} Project by 
   <a href="https://github.com/rajpundkar" target="_blank" rel="noopener noreferrer">
-    Raj Pundkar
+     Raj Pundkar
   </a> 
   &mdash; This project is currently under development.
 </p>
